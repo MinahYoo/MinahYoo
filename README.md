@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,100:2F6B5A&height=210&section=header&text=Minah%20Yoo&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Statistics%20%C3%97%20Finance%20%C3%97%20Machine%20Learning&descSize=18&descAlignY=58" width="100%" alt="Minah Yoo"/>
 
+M.S. in Statistics @ Korea University · Prof. Yoonseo Jung's Lab · Founder of KUSTAI
 
 <a href="mailto:yoo6364@korea.ac.kr"><img src="https://img.shields.io/badge/Email-yoo6364%40korea.ac.kr-1B2A41?style=flat-square" alt="Email"/></a>
 <a href="https://github.com/MinahYoo"><img src="https://img.shields.io/badge/GitHub-MinahYoo-2F6B5A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -12,11 +13,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **고려대학교 통계학 석사과정** (2026.09 ~, 학석사연계) · 통계학 학사 (2026.08)
-- 🔬 **정윤서 교수 연구실** — 머신러닝
-- 💳 **관심 분야** — 신용 리스크 모델링 · 생존분석 · 인과추론 · 금융 데이터의 통계적 학습
-- 🤝 **KUSTAI** (Korea University Statistical AI) 창립 · 동아리장
-- 🧑‍🏫 통계 컴퓨터 소프트웨어(R 실습) 조교
+- 🎓 **M.S. in Statistics, Korea University** (Sep 2026 – present, combined B.S./M.S. program) · B.S. in Statistics (Aug 2026)
+- 🔬 **Prof. Yoonseo Jung's Lab** — Machine Learning
+- 💳 **Interests** — Credit Risk Modeling · Survival Analysis · Causal Inference · Statistical Learning for Financial Data
+- 🤝 **KUSTAI** (Korea University Statistical AI) — Founder & President
+- 🧑‍🏫 Teaching Assistant, Statistical Computer Software (R)
 
 <br/>
 
@@ -47,37 +48,37 @@
 
 ## 🧭 Research & Activities
 
-| 활동 | 내용 |
+| Activity | Description |
 |---|---|
-| 🤝 **산학협력** | NICE평가정보 — 개인사업자 신용평가 모델링 연구 |
-| 🤖 **IBM Bob 해커톤** (2026.11) | THE HIDDEN BIAS — 보고서 결론의 표본·무응답 편향과 심슨의 역설을 통계로 검증하는 반박형 검토 에이전트 |
-| 🏛️ **KUSTAI** | 해커톤·스터디·세미나 운영 |
-| 📈 **Find-Alpha** | 2026.01 ~ 현재 |
-| 📊 **KUSEA** | 2025.12 ~ 2026.12 |
-| 🗳️ **리서치 조교** | 정치 커뮤니케이션 연구 — 데이터 가공 · AI 시뮬레이션 |
-| 📘 **교육** | PFC테크놀로지스 신용평가아카데미 4기 수료 |
+| 🤝 **Industry–Academia Project** | NICE Information Service — Credit Risk Modeling for Sole Proprietors |
+| 🤖 **IBM Bob Hackathon** (Nov 2026) | THE HIDDEN BIAS — An agent that statistically checks report conclusions for sampling bias, nonresponse bias, and Simpson's paradox |
+| 🏛️ **KUSTAI** | Hackathons · Study Groups · Seminars |
+| 📈 **Find-Alpha** | Jan 2026 – Present |
+| 📊 **KUSEA** | Dec 2025 – Dec 2026 |
+| 🗳️ **Research Assistant** | Political Communication Research — Data Processing · AI Simulation |
+| 📘 **Training** | PFC Technologies Credit Rating Academy, Cohort 4 |
 
 <br/>
 
 ## 🏆 Awards & Certifications
 
-| 날짜 | 구분 | 내용 |
+| Date | Type | Description |
 |---|---|---|
-| 2026.11 | 🎖️ 장려상 | 한국데이터정보과학회 추계 학생논문발표대회 |
-| 2026.09 | 🏆 창의상 | 2026 K-DATA SCIENCE 해커톤 (팀 '결측치와 춤을') |
-| 2025.09 | 📜 SQLD | 한국데이터산업진흥원 |
-| 2024.09 | 📜 ADsP | 한국데이터산업진흥원 |
+| Nov 2026 | 🎖️ Honorable Mention | Korean Data & Information Science Society, Fall Student Paper Competition |
+| Sep 2026 | 🏆 Creativity Award | 2026 K-DATA SCIENCE Hackathon (Team "Dancing with Missing Values") |
+| Sep 2025 | 📜 SQLD | Korea Data Agency |
+| Sep 2024 | 📜 ADsP | Korea Data Agency |
 
 <br/>
 
 ## 🔬 Projects
 
-| Repository | 내용 |
+| Repository | Description |
 |---|---|
-| [forest-welfare-kdata2026](https://github.com/MinahYoo/forest-welfare-kdata2026) | 2026 K-DATA SCIENCE 해커톤 · 산림복지 수요 예측 및 시설 운영 최적화 |
-| [forest-welfare-dashboard](https://github.com/MinahYoo/forest-welfare-dashboard) | 숲BTI 대시보드 (Streamlit) · [데모](https://minahyoo-forest-welfare-dashboard-app-2wa44b.streamlit.app/) |
-| [cov-diffusion-gmv](https://github.com/MinahYoo/cov-diffusion-gmv) | Diffusion 모델 기반 공분산 예측 · 최소분산 포트폴리오 |
-| [BC_card](https://github.com/MinahYoo/BC_card) | BC카드 소비데이터 공모전 · 상권 생존분석 |
+| [forest-welfare-kdata2026](https://github.com/MinahYoo/forest-welfare-kdata2026) | 2026 K-DATA SCIENCE Hackathon · Forest Welfare Demand Forecasting & Facility Operations Optimization |
+| [forest-welfare-dashboard](https://github.com/MinahYoo/forest-welfare-dashboard) | Forest BTI Dashboard (Streamlit) · [Demo](https://minahyoo-forest-welfare-dashboard-app-2wa44b.streamlit.app/) |
+| [cov-diffusion-gmv](https://github.com/MinahYoo/cov-diffusion-gmv) | Diffusion-Model Covariance Forecasting · Minimum-Variance Portfolio |
+| [BC_card](https://github.com/MinahYoo/BC_card) | BC Card Consumption Data Competition · Survival Analysis of Local Businesses |
 
 <br/>
 
