@@ -46,48 +46,6 @@
 
 <br/>
 
-## 🔬 Featured Projects
-
-### 🌲 숲BTI — 산림복지 수요 예측 & 시설 운영 최적화
-**2026 K-DATA SCIENCE 해커톤 · 한국산림복지진흥원 과제** &nbsp;|&nbsp; 🏆 창의상 &nbsp;|&nbsp; 📝 학생논문발표대회 장려상
-
-<table>
-<tr>
-<td width="44%">
-<a href="https://minahyoo-forest-welfare-dashboard-app-2wa44b.streamlit.app/"><img src="https://raw.githubusercontent.com/MinahYoo/forest-welfare-dashboard/main/screenshots/02_regional.png" alt="숲BTI 대시보드"/></a>
-</td>
-<td>
-
-- 승인통계 『2024 산림휴양·복지활동 조사』(11,949명 × 668문항)로 **개인 맞춤 추천 → 지역 우선확충지수 → 예산 배분**까지 "두 개의 의사결정"을 하나로 연결
-- CatBoost 멀티라벨(원자료 515열) **Macro-F1 0.699**, TabPFN 2.5와 비교 · SHAP으로 추천 근거 설명
-- PuLP로 2023 결산 63.2억 원 기준 운영 최적화, Streamlit 대시보드로 배포
-
-[**Live Demo**](https://minahyoo-forest-welfare-dashboard-app-2wa44b.streamlit.app/) · [Analysis](https://github.com/MinahYoo/forest-welfare-kdata2026) · [Dashboard](https://github.com/MinahYoo/forest-welfare-dashboard)
-
-</td>
-</tr>
-</table>
-
-### 🗺️ 상권 생존 지도 — "소비는 있는데 왜 못 버티는가"
-**BC카드 AI금융빅데이터플랫폼 소비데이터 경진대회 · 팀 프로젝트**
-
-- LOCALDATA 점포 63.5만 개 × BC카드 소비데이터를 결합해 **Cox 비례위험모형 + RSF**로 지역×업종 폐업 위험을 요인별로 분해
-- 학습에 쓰지 않은 미래 78일 전향 검증: **C-index 0.627**, 위험 상위 30% 점포가 실제 폐업의 **48.3%** 포착
-- 이웃 지역 폐업률 변수 하나로 잔차의 공간자기상관 해소 (Moran's I 0.241 → 0.023)
-
-[**Website**](https://ahnseo0000.github.io/BC_card/) · [Code](https://github.com/ahnseo0000/BC_card)
-
-### 📈 Diffusion Covariance GMV — 생성모형으로 포트폴리오 위험 예측
-**개인 연구 프로젝트**
-
-- 조건부 DDPM으로 다음 달 **공분산 행렬의 분포**를 생성 → 표본공분산과 블렌딩해 long-only 최소분산(GMV) 포트폴리오 구성
-- CRSP 미국 일별 주식 2000–2025 · 행렬로그 vech 표현 · 2021–2025 테스트 구간 완전 분리
-- 벤치마크: 동일가중 · 표본공분산 · Ledoit-Wolf 축소 · 베이지안 Inverse-Wishart
-
-[Code](https://github.com/MinahYoo/cov-diffusion-gmv)
-
-<br/>
-
 ## 🧭 Research & Activities
 
 | 활동 | 내용 |
@@ -110,6 +68,17 @@
 | 2026.09 | 🏆 창의상 | 2026 K-DATA SCIENCE 해커톤 (팀 '결측치와 춤을') |
 | 2025.09 | 📜 SQLD | 한국데이터산업진흥원 |
 | 2024.09 | 📜 ADsP | 한국데이터산업진흥원 |
+
+<br/>
+
+## 🔬 Projects
+
+| Repository | 내용 |
+|---|---|
+| [forest-welfare-kdata2026](https://github.com/MinahYoo/forest-welfare-kdata2026) | 2026 K-DATA SCIENCE 해커톤 · 산림복지 수요 예측 및 시설 운영 최적화 |
+| [forest-welfare-dashboard](https://github.com/MinahYoo/forest-welfare-dashboard) | 숲BTI 대시보드 (Streamlit) · [데모](https://minahyoo-forest-welfare-dashboard-app-2wa44b.streamlit.app/) |
+| [cov-diffusion-gmv](https://github.com/MinahYoo/cov-diffusion-gmv) | Diffusion 모델 기반 공분산 예측 · 최소분산 포트폴리오 |
+| [BC_card](https://github.com/MinahYoo/BC_card) | BC카드 소비데이터 공모전 · 상권 생존분석 |
 
 <br/>
 
