@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,100:2F6B5A&height=210&section=header&text=Minah%20Yoo&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Statistics%20%C3%97%20Finance%20%C3%97%20Machine%20Learning&descSize=18&descAlignY=58" width="100%" alt="Minah Yoo"/>
 
-고려대학교 통계학과 학석사연계과정 · 정윤서 교수 연구실 · KUSTAI 창립자
 
 <a href="mailto:yoo6364@korea.ac.kr"><img src="https://img.shields.io/badge/Email-yoo6364%40korea.ac.kr-1B2A41?style=flat-square" alt="Email"/></a>
 <a href="https://github.com/MinahYoo"><img src="https://img.shields.io/badge/GitHub-MinahYoo-2F6B5A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
